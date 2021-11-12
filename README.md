@@ -37,10 +37,10 @@
 <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-code1&" alt="chirag-code1" /></a>
 </p>
  <br/>
-<div style="display:flex; justify-content: space-between;">
+<p>
 <a><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag-code1&show_icons=true&locale=en&layout=compact" alt="chirag-code1" /></a>
 <a align="right"><img  src="https://github-readme-stats.vercel.app/api?username=chirag-code1&show_icons=true&locale=en" alt="chirag-code1" /></a>
-</div>
+</p>
 <br/>
 <b>Note:</b> Top language is just a measure language used in working with public repos. It doesn't reflect experience.  
 <br/>
