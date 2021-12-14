@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chirag code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag code" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chirag-code1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chirag-code1" height="30" width="40" /></a>
-  <a href="https://instagram.com/callme.chirag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callme.chirag" height="30" width="40" /></a>
+  <a href="https://instagram.com/chirag.jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callme.chirag" height="30" width="40" /></a>
   
 </p>
 
