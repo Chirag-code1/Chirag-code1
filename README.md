@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from City Beautiful, Chandigarh.</h3>
 
 <h3 align="left"> 🙋‍♂️ About Me:</h3>
+<hr />
 - 🌱 I’m currently exploring **Full Stack development.**
 
 - 📫 How to reach me **chiragcode1@gmail.com**
@@ -10,7 +11,7 @@
 - ⚡ Fun fact **i'm an aura you wouldn't want to leave!**
 
 <h3 align="left">🔗💖 Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/chirag code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag code" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chirag-code1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chirag-code1" height="30" width="40" /></a>
   <a href="https://instagram.com/chirag.jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callme.chirag" height="30" width="40" /></a>
@@ -31,14 +32,12 @@
 
 
 
-
-
 <h3 align="center">My GitHub Stats 📊 </h3>
 <p align ="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-code1&" alt="chirag-code1" />
  </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag-code1&show_icons=true&locale=en&layout=compact" alt="chirag-code1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag-code1&show_icons=true&locale=en&layout=compact" alt="Chirag :: Profile Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chirag-code1&show_icons=true&locale=en" alt="Chirag :: Top Langs" />
 </p>
 
