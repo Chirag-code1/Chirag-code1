@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm CHIRAG</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm CHIRAG  &nbsp; 🙋‍♂️</h1> 
 <a href="#"> <img width="100%"  height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 <h3 align="center">A passionate Full Stack developer from City Beautiful, Chandigarh.</h3>
 
-<h3 align="left">About Me:</h3>
+<h3 align="left"> 🙋‍♂️ About Me:</h3>
 - 🌱 I’m currently exploring **Full Stack development.**
 
 - 📫 How to reach me **chiragcode1@gmail.com**
 
 - ⚡ Fun fact **i'm an aura you wouldn't want to leave!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗💖 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chirag code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag code" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chirag-code1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chirag-code1" height="30" width="40" /></a>
@@ -17,7 +17,7 @@
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🚀 Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -31,19 +31,14 @@
 
 
 
-## My Github Stats:
-<br/>
+
+
+<h3 align="center">My GitHub Stats 📊 </h3>
+<p align ="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-code1&" alt="chirag-code1" />
+ </p>
 <p align="center">
-<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-code1&" alt="chirag-code1" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag-code1&show_icons=true&locale=en&layout=compact" alt="chirag-code1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chirag-code1&show_icons=true&locale=en" alt="Chirag :: Top Langs" />
 </p>
- <br/>
-<p>
-<a><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag-code1&show_icons=true&locale=en&layout=compact" alt="chirag-code1" /></a>
-<a align="right"><img  src="https://github-readme-stats.vercel.app/api?username=chirag-code1&show_icons=true&locale=en" alt="chirag-code1" /></a>
-</p>
-<br/>
-<b>Note:</b> Top language is just a measure language used in working with public repos. It doesn't reflect experience.  
-<br/>
-
-
 
