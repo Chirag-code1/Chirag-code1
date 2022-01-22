@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **chiragcode1@gmail.com**
 
-- ⚡ Fun fact **i'm an aura you wouldn't want to leave!**
+- 🌈 Fun fact **i'm an aura you wouldn't want to leave!**
 
 <h3 align="left">🔗💖 Connect with me:</h3>
 <p >
