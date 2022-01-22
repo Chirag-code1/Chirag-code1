@@ -4,7 +4,7 @@
 
 <h3 align="left"> 🙋‍♂️ About Me:</h3>
 
-- 🌱 I’m currently exploring **Full Stack development.**
+- 🌱 I’m currently exploring **Full Stack development (MERN).**
 
 - 📫 How to reach me **chiragcode1@gmail.com**
 
