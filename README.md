@@ -1,4 +1,6 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm CHIRAG  &nbsp; 🙋‍♂️</h1> 
+<h1 align="center">Hi! 
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> -->
+ ,  I'm CHIRAG  &nbsp; 🙋‍♂️</h1> 
 <a href="#"> <img width="100%"  height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 <h3 align="center">A passionate Full Stack Developer from City Beautiful, Chandigarh.</h3>
 
